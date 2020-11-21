@@ -1,0 +1,8 @@
+/* changement de l'image de fond de ma page de connexion WordPres */
+body.login { 
+   background-color: #181818;
+    
+   }
+   .login h1 a { 
+      background-image: utl('https://acadenum.sebastienjourdain.com/wp-content/uploads/2020/11/logo-final-petit.png'); 
+     }

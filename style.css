@@ -1,0 +1,63 @@
+/*
+Theme Name: astra-child
+Description: Une description de votre thème
+Author: seb
+Author URI: https://www.votre-domaine.fr
+Template: astra
+Version: 1.0
+*/
+
+
+.menu{
+    background-color: #181818;
+}
+.entry-title {
+	display:none;
+}
+
+/* polices */
+
+@font-face {
+    font-family: 'Asap';
+    src: url( 'https://fonts.googleapis.com/css2?family=Asap&display=swap'); 
+    font-weight: normal;
+    font-style: normal;
+   }
+   @font-face {
+    font-family: 'Asap';
+    src: url( 'https://fonts.googleapis.com/css2?family=Asap:wght@500&display=swap'); 
+    font-weight: medium;
+    font-style: medium;
+   }
+
+   @font-face {
+    font-family: 'Asap';
+    src: url( "https://fonts.googleapis.com/css2?family=Asap:wght@600&display=swap");
+    font-weight: semi-bold;
+    font-style: semi-bold;
+   }
+
+   @font-face {
+    font-family: 'Nunito Sans';
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+    font-weight: normal;
+    font-style: normal;
+   }
+
+   @font-face {
+    font-family: 'Nunito Sans';
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@1&display=swap');
+    font-weight: normal;
+    font-style: italic;
+   
+
+
+
+
+
+
+
+
+
+
+
